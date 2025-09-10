@@ -1,0 +1,257 @@
+li{
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+nav{
+    background-color: rgb(129, 85, 3);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.contato{
+    text-align: left;
+    font-size: 20px;
+   
+}
+.contato h1{
+     color: rgb(186, 123, 6);
+     font-weight: bold;
+}
+footer{
+    background-color: #cfc294;
+    
+}
+.titulo{
+    color: rgb(151, 123, 72);
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header{
+    background-color: #ada37b;
+}
+main div{
+    
+    border-radius: 20px;
+    line-height: 22px;
+}
+.botao{
+    background-color: #d8ca99;
+    padding: 1px;
+    border: none;
+    font-size: 16px;
+    margin-top: 50px;
+    border: 10px solid #d8ca99;
+    width: 80%;
+    border-radius: 40px;
+
+}
+.x{
+    width: 100%;
+    height: 600px;
+}
+
+.s3{
+    background: #664602;
+    background: linear-gradient(90deg, rgba(102, 70, 2, 1) 0%, rgba(252, 213, 164, 1) 100%, rgba(148, 66, 47, 1) 52%);
+    
+    height: 490px;
+    
+
+}
+.a{
+    font-size: 30px;
+    padding-top: 60px;
+    color: white;
+}
+.b{
+    color: white;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.c{
+    width: 14%;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+.i1{
+    border-radius: 8px;
+    width: 56%;
+    height: 330px;
+    margin-top: 30px;
+}
+.aa{
+    font-size: 40px;
+    color: #664602;
+}
+.i2{
+    background-image: url(../imagem/cirurgia\ plastica.jpg);
+    background-size: cover;
+    height: 420px;
+    
+}
+.hh{
+    color: black;
+    font-size: 35px;
+    padding-top: 40px;
+}
+.pp{
+    padding-top: 10px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.586);
+    height: 80px;
+    margin-top: 170px;
+    border: none;
+}
+.i3{
+    background-image: url(../imagem/Ultrassonografia-1024x683.jpg.webp);
+    
+    background-size: cover;
+    height: 420px;
+}
+.is div{
+    border: 10px solid rgb(255, 255, 255);
+}
+.i4{
+    background-image: url(../imagem/gastro.webp);
+    background-size: cover;
+    height: 420px;
+    
+}
+.i5{
+    background-image: url(../imagem/cardiologia.png);
+    background-size: cover;
+    height: 420px;
+
+}
+.i6{
+    background-image: url(../imagem/demarto.jpg);
+    background-size: cover;
+    height: 420px;
+
+}
+.i7{
+    background-image: url(../imagem/ortopedia.png);
+    background-size: cover;
+    height: 420px;
+}
+.i8{
+    background-image: url(../imagem/psicologia-psiquiatria.webp);
+    background-size: cover;
+    height: 420px;
+}
+.i9{
+    background-image: url(../imagem/a-oftalmologia-e-a-formacao-de-oftalmologistas-1024x597.jpg);
+    background-size: cover;
+    height: 420px;
+}
+.i10{
+    background-image: url(../imagem/consultar-otorrinolaringologista-1280x720-2.jpg);
+    background-size: cover;
+    height: 420px;
+}
+.i11{
+    background-image: url(../imagem/urologia.jpg);
+    background-size: cover;
+    height: 420px;
+}
+.i12{
+    background-image: url(../imagem/neurocirurgia-1920w.webp);
+    background-size: cover;
+    height: 420px;
+}
+.i13{
+    background-image: url(../imagem/angiologia.jpg);
+    background-size: cover;
+    height: 420px;
+}
+.i14{
+    background-image: url(../imagem/ciruegia\ geral.jpg);
+    background-size: cover;
+    height: 420px;
+}
+.ra{
+    margin-top: 40px;
+}
+.atuacao{
+    font-size: 30px;
+    color: #664602;
+    
+}
+.medical{
+    background-image: url(../imagem/1987697-abstrato-hexagono-padrao-escuro-azul-fundo-medico-e-ciencia-conceito-estruturas-moleculares-gratis-vetor.jpg);
+    background-size: cover;
+    height: 400px;
+}
+.medical img{
+    height: 200px;
+}
+.conv{
+    font-size: 40px;
+    color: white;
+    padding-top: 40px;
+}
+.sse{
+    margin-top: 40px;
+}
+
+.r1{
+    background-image: url(../imagem/coracao.jpg);
+    background-size: cover;
+    height: 320px;
+    border: 5px solid black;
+}
+.rr1{
+    font-size: 15px;
+    font-weight: 900;
+}
+.rr2{
+    padding-top: 220px;
+    font-size: 20px;
+    padding-left: 20px;
+    font-weight: 900;
+}
+.rr3{
+    padding-left: 20px;
+}
+.r2{
+    background-image: url(../imagem/turma.jpeg);
+    background-size: cover;
+    height: 320px;
+    border: 5px solid black;
+}
+.ult{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.r3{
+    background-image: url(../imagem/emfermagem.jpg);
+    background-size: cover;
+    height: 320px;
+    border: 5px solid black;
+}
+.fique{
+    font-size: 40px;
+    color: #664602;
+}
+.ult div{
+    margin-top: 30px;
+}
+.ver{
+    width: 120px;
+    height: 40px;
+    margin-left: 45%;
+    background-color: #664602;
+    font-size: 15px;
+    color: white;
+    margin-top: 30px;
+}
